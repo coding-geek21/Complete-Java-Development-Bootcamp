@@ -3,7 +3,15 @@ public class UpdateVariables {
 
         int passengers = 0;
 
-        passengers = passengers + 9;
+        passengers += 9;
+
+        System.out.println(passengers);
+
+        passengers -= 5;
+
+        System.out.println(passengers);
+
+        passengers -= 4;
 
         System.out.println(passengers);
 
