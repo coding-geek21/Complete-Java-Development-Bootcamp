@@ -1,7 +1,7 @@
 /**
- * workbook_1.1
+ * workbook1
  */
-public class workbook_1 {
+public class workbook1 {
     public static void main(String[] args) {
         System.out.println("Printing is fun!");
         System.out.println("Java > Python.");
