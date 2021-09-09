@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Workbook12",
+            "request": "launch",
+            "mainClass": "Workbook12",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook11",
+            "request": "launch",
+            "mainClass": "Workbook11",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook10",
+            "request": "launch",
+            "mainClass": "Workbook10",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook9",
+            "request": "launch",
+            "mainClass": "Workbook9",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchStatements",
+            "request": "launch",
+            "mainClass": "SwitchStatements",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanComparison",
+            "request": "launch",
+            "mainClass": "BooleanComparison",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Booleans",
+            "request": "launch",
+            "mainClass": "Booleans",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Challenge",
+            "request": "launch",
+            "mainClass": "Challenge",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Decimals",
+            "request": "launch",
+            "mainClass": "Decimals",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Form",
+            "request": "launch",
+            "mainClass": "Form",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloJava",
+            "request": "launch",
+            "mainClass": "HelloJava",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch JoinStrings",
+            "request": "launch",
+            "mainClass": "JoinStrings",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOperators",
+            "request": "launch",
+            "mainClass": "LogicalOperators",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MathOperations",
+            "request": "launch",
+            "mainClass": "MathOperations",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Survey",
+            "request": "launch",
+            "mainClass": "Survey",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeConversion",
+            "request": "launch",
+            "mainClass": "TypeConversion",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch UpdateVariables",
+            "request": "launch",
+            "mainClass": "UpdateVariables",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch WholeNumbers",
+            "request": "launch",
+            "mainClass": "WholeNumbers",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook3",
+            "request": "launch",
+            "mainClass": "Workbook3",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook4",
+            "request": "launch",
+            "mainClass": "Workbook4",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook5",
+            "request": "launch",
+            "mainClass": "Workbook5",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook6",
+            "request": "launch",
+            "mainClass": "Workbook6",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook7",
+            "request": "launch",
+            "mainClass": "Workbook7",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook8",
+            "request": "launch",
+            "mainClass": "Workbook8",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch YourInitials",
+            "request": "launch",
+            "mainClass": "YourInitials",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifElse",
+            "request": "launch",
+            "mainClass": "ifElse",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch workbook1",
+            "request": "launch",
+            "mainClass": "workbook1",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch workbook2",
+            "request": "launch",
+            "mainClass": "workbook2",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        }
+    ]
+}

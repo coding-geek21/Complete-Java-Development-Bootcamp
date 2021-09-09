@@ -1,6 +1,3 @@
 {
-  "java.project.sourcePaths": [
-    "section-2",
-    "section-1"
-  ]
+  "java.project.sourcePaths": ["section-2", "section-1", "section-3"]
 }
