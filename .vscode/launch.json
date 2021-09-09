@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReturnValues",
+            "request": "launch",
+            "mainClass": "ReturnValues",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook15",
+            "request": "launch",
+            "mainClass": "Workbook15",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parameters",
+            "request": "launch",
+            "mainClass": "Parameters",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook14",
+            "request": "launch",
+            "mainClass": "Workbook14",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chorus",
+            "request": "launch",
+            "mainClass": "Chorus",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Challenge2",
+            "request": "launch",
+            "mainClass": "Challenge2",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dealership",
+            "request": "launch",
+            "mainClass": "Dealership",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Workbook13",
+            "request": "launch",
+            "mainClass": "Workbook13",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Delimiter",
+            "request": "launch",
+            "mainClass": "Delimiter",
+            "projectName": "Complete-Java-Development-Bootcamp_80d1b24c"
+        },
+        {
+            "type": "java",
             "name": "Launch Workbook12",
             "request": "launch",
             "mainClass": "Workbook12",
